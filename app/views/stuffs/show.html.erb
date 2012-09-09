@@ -5,6 +5,16 @@
   <%= @stuff.name %>
 </p>
 
+<p>
+  <b>Group:</b>
+  <%= @stuff.group_id %>
+</p>
+
+<p>
+  <b>Price:</b>
+  <%= @stuff.price %>
+</p>
+
 
 <%= link_to 'Edit', edit_stuff_path(@stuff) %> |
 <%= link_to 'Back', stuffs_path %>

@@ -6,7 +6,7 @@ gem 'rails', '3.2.8'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-gem 'd3_rails'
+gem 'igs_pie_chart','0.0.8'
 gem 'thin'
 
 # Gems used only for assets and not required

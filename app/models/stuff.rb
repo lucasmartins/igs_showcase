@@ -1,3 +1,3 @@
 class Stuff < ActiveRecord::Base
-  attr_accessible :name
+  attr_accessible :group_id, :name, :price
 end
