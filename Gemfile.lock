@@ -46,6 +46,8 @@ GEM
       multi_json (~> 1.0)
     hike (1.2.1)
     i18n (0.6.1)
+    igs_bar_chart (0.0.1)
+      d3_rails (>= 3.0.6)
     igs_pie_chart (0.0.11)
       d3_rails (>= 3.0.6)
     journey (1.0.4)
@@ -115,6 +117,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
+  igs_bar_chart (= 0.0.1)
   igs_pie_chart (= 0.0.11)
   jquery-rails
   rails (= 3.2.12)

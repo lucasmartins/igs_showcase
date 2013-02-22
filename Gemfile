@@ -4,6 +4,7 @@ gem 'rails', '3.2.12'
 
 gem 'sqlite3'
 gem 'igs_pie_chart','0.0.11'
+gem 'igs_bar_chart','0.0.1'
 gem 'thin'
 
 group :assets do
